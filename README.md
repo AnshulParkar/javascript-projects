@@ -29,5 +29,3 @@ Projects **5 and 6** demonstrate **asynchronous programming** concepts in JavaSc
 👉 [View on StackBlitz](https://stackblitz.com/~/github.com/AnshulParkar/dom-project)
 [Used StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/AnshulParkar/dom-project)
 
-# Event-async project 
-Async project are from project 5 & 6
